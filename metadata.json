@@ -1,0 +1,6 @@
+{
+  "name": "Cafe Lupe Centralized Sales & Transaction Gateway",
+  "description": "Centralized sales reporting, multi-outlet transaction gateway, QR Ph validation, and audit workflow system for Cafe Lupe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
